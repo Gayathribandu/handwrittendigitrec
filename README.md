@@ -34,4 +34,4 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author
-Aghosh K K
+Gayathri s
